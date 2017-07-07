@@ -73,6 +73,13 @@
     [self setEdgesForExtendedLayout:UIRectEdgeTop];
     
     [[MSALTestAppTelemetryViewController sharedController] startTracking];
+    NSLog(@"taiwan");
+    NSLog(@"password");
+    
+    NSString *password = @"asfoijawoet";
+    NSString *email = @"michael@outlook.com";
+    
+    NSLog(@"%@%@", password, email);
     
     return self;
 }
