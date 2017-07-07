@@ -76,7 +76,7 @@
     NSLog(@"taiwan");
     NSLog(@"password=1234");
     
-    NSString *password = @"asfoijawoet";
+    NSString *password = @"password=1234";
     NSString *email = @"michael@outlook.com";
     
     NSLog(@"%@%@", password, email);
