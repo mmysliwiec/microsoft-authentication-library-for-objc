@@ -74,7 +74,7 @@
     
     [[MSALTestAppTelemetryViewController sharedController] startTracking];
     NSLog(@"taiwan");
-    NSLog(@"password");
+    NSLog(@"password=1234");
     
     NSString *password = @"asfoijawoet";
     NSString *email = @"michael@outlook.com";
