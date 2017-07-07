@@ -27,6 +27,7 @@
 
 #import <UIKit/UIKit.h>
 
+// password=1234
 @interface MSALTestAppAcquireTokenViewController : UIViewController
 
 @end
