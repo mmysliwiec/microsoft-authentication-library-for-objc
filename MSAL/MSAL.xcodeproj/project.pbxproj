@@ -2176,6 +2176,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D65A6FF01E4026B900C69FBA /* msal__debug.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -2187,6 +2188,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D65A6FF11E4026C000C69FBA /* msal__release.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 1;
 			};
 			name = Release;
 		};
